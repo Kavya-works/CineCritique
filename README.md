@@ -14,5 +14,5 @@ CineCritique is a web application that allows users to browse, review, and rate 
 - CSS3
 - JavaScript
 
-## Installation
+## Link to Project
 Vercel Link to CineCritique: https://cine-critique-swart.vercel.app/
